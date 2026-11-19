@@ -1,0 +1,7 @@
+{
+  "name": "wled-usermod-passthrough",
+  "build": {
+    "libArchive": false,
+    "srcFilter": ["+<*.cpp>", "-<test/>"]
+  }
+}

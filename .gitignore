@@ -1,0 +1,4 @@
+# host test binary (if built in the repo)
+ws2812_decoder_test
+*.o
+.DS_Store
